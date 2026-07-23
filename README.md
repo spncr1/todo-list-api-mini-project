@@ -1,5 +1,19 @@
 # Todo List API
 
+## Project URL
+
+Local API server:
+
+```text
+http://127.0.0.1:8000
+```
+
+Interactive API docs:
+
+```text
+http://127.0.0.1:8000/docs
+```
+
 This API is built around two main resources:
 
 - User
