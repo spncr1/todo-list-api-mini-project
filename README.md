@@ -2,6 +2,12 @@
 
 ## Project URL
 
+Project brief:
+
+```text
+https://roadmap.sh/projects/todo-list-api
+```
+
 Local API server:
 
 ```text
